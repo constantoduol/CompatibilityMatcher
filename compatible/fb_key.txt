@@ -1,0 +1,13 @@
+compatibility matcher
+
+data i need
+friends and friends of friends
+
+1. friends posts
+2. friends comments
+3. friends likes
+4. friends age
+5. 
+
+
+
